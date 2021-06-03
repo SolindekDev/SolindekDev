@@ -1,6 +1,6 @@
 <h1>Hejo!</h1>
 
-🌐 **Strona**: [My Page](http://solindek-dev.ct8.pl) <br>✨**Języki**: [C#](https://pl.wikipedia.org/wiki/C_Sharp), [JavaScript](https://pl.wikipedia.org/wiki/JavaScript),[PHP](https://pl.wikipedia.org/wiki/PHP), [GoLang](https://pl.wikipedia.org/wiki/Go_(język_programowania)) Uczę się Kotlin oraz Node.js <br>
+🌐 **Strona**: [My Page](http://solindek-dev.ct8.pl) <br>✨**Języki**: [C#](https://pl.wikipedia.org/wiki/C_Sharp), [JavaScript](https://pl.wikipedia.org/wiki/JavaScript), [PHP](https://pl.wikipedia.org/wiki/PHP), [GoLang](https://pl.wikipedia.org/wiki/Go_(język_programowania)) Uczę się Kotlin oraz Node.js <br>
 🎈**Aktualne projekty**: [ShieldBot](https://shieldbot.gq) , Vlue ( C# Library ) , Leaf ( Operating System ), <br>
 
 # Języki
