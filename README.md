@@ -4,7 +4,7 @@
 🎈**Aktualne projekty**: [ShieldBot](https://shieldbot.gq) , Vlue ( C# Library ) , Leaf ( Operating System ), <br>
 
 # Języki
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@418b9796-c879-4295-8b96-b20570a5f28b/09555e0f-3cfc-4b8c-8d18-5f6d42a1bc8f.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@418b9796-c879-4295-8b96-b20570a5f28b/42dcac4b-ed79-4e67-b701-1732d8f87cee.png" /></a>
 
 # Czas programowania
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@418b9796-c879-4295-8b96-b20570a5f28b/c9293373-58fe-446d-bffa-96c5d0ee7feb.png" /></a>
