@@ -8,3 +8,6 @@
 
 # Czas programowania
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@418b9796-c879-4295-8b96-b20570a5f28b/c9293373-58fe-446d-bffa-96c5d0ee7feb.png" /></a>
+
+# Edytory
+<figure><embed src="https://wakatime.com/share/@418b9796-c879-4295-8b96-b20570a5f28b/4041c72a-f6fd-4f5f-ace5-21ff3095f181.svg"></embed></figure>
