@@ -18,4 +18,4 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@418b9796-c879-4295-8b96-b20570a5f28b/87ddc770-93e7-428e-8c30-dcd513b0b06f.png" /></a>
 
 # Najbardziej używane języki w moich repozytoriach
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolindekDev&layout=compact">
