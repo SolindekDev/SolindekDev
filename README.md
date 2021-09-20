@@ -1,7 +1,7 @@
 <h1>Hejo!</h1>
 
-🌐 **Strona**: [My Page](http://solindek-dev.ct8.pl) <br>✨**Języki**: [C#](https://pl.wikipedia.org/wiki/C_Sharp), [JavaScript](https://pl.wikipedia.org/wiki/JavaScript), [GoLang](https://pl.wikipedia.org/wiki/Go_(język_programowania)) Uczę się Python i C<br>
-🎈**Aktualne projekty**: [Vexly](https://vexly.cf/), Kopia Youtube, Dotty <br>
+✨**Języki**: , [GoLang](https://pl.wikipedia.org/wiki/Go_(język_programowania)), [JavaScript](https://pl.wikipedia.org/wiki/JavaScript), [C#](https://pl.wikipedia.org/wiki/C_Sharp) Uczę się C<br>
+🎈**Aktualne projekty**: [SweetLang](https://sweetlang.cf/) <br>
 
 # Używam
 
