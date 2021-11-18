@@ -1,6 +1,6 @@
 <h1>Hejo!</h1>
 
-✨**Języki**: , [GoLang](https://pl.wikipedia.org/wiki/Go_(język_programowania)), [JavaScript](https://pl.wikipedia.org/wiki/JavaScript), [C#](https://pl.wikipedia.org/wiki/C_Sharp), [C](https://en.wikipedia.org/wiki/C_(programming_language)), Assembly<br>
+✨**Języki**: Ruby, [GoLang](https://pl.wikipedia.org/wiki/Go_(język_programowania)), [JavaScript](https://pl.wikipedia.org/wiki/JavaScript), [C#](https://pl.wikipedia.org/wiki/C_Sharp), [C](https://en.wikipedia.org/wiki/C_(programming_language)), Assembly<br>
 🎈**Aktualne projekty**: [SweetLang](https://sweetlang.cf/) <br>
 
 # Używam
