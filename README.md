@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solindek</h1>
-<h3 align="center">A passionate of programming from Poland!</h3>
+<h3 align="center">A passionate of programming, electrical and physics from Poland!</h3>
 
 <p align="left">  </p>
 
