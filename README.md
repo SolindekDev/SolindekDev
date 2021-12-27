@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/solindek" target="blank"><img src="https://img.shields.io/twitter/follow/solindek?logo=twitter&style=for-the-badge" alt="solindek" /></a> </p>
 
-- 🔭 I’m currently working on [Yayx Programming Language](https://github.com/solindekdev/yayx)
+- 🔭 I’m currently working on [Sonix OS](https://github.com/solindekdev/sonix)
 
 - 🌱 I’m currently learning **C, GoLang**
 
