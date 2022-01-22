@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/solindek" target="blank"><img src="https://img.shields.io/twitter/follow/solindek?logo=twitter&style=for-the-badge" alt="solindek" /></a> </p>
 
-- 🔭 I’m currently working on [BeaverOS](https://github.com/solindekdev/BeaverOS)
+- 🔭 I’m currently working on [BeaverOS](https://github.com/solindekdev/BeaverOS) and [Joule](https://github.com/SolindekDev/Joule)
 
 - 🌱 I’m currently learning **C, GoLang**
 
