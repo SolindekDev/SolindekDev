@@ -1,6 +1,6 @@
 # Welcome! I'm a young programmer from Poland 🇵🇱
-- I'm currently working on: **Nothing**
-- I'm currently learning: **Rust, React**
+- I'm currently working on: **[Barn](https://github.com/barn-lang/barn)**
+- I'm currently learning: **Nothing**
 - My website: **[Click!](https://solindek.tech/)**
 - How to contact me: **[Click!](https://solindek.tech/contact.html)**
 # My profile has been seen
