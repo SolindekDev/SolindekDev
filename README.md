@@ -1,8 +1,8 @@
 # Welcome! I'm a young programmer from Poland 🇵🇱
 - I'm currently working on: **[Barn](https://github.com/barn-lang/barn)**
 - I'm currently learning: **Nothing**
-- My website: **[Click!](https://solindek.tech/)**
-- How to contact me: **[Click!](https://solindek.tech/contact.html)**
+- My website: **[Click!](https://solindek.ct8.pl/)**
+- How to contact me: **[Click!](https://solindek.ct8.pl/)**
 # My profile has been seen
 ![Seen counter](https://profile-counter.glitch.me/%7BSolindekDev%7D/count.svg)
 # My statistics
